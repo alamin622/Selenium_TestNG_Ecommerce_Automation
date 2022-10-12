@@ -1,0 +1,28 @@
+
+[
+  {
+    "password": "abeer@test",
+    "email": "abeer@test.com"
+  },
+  {
+    "password": "P@ssword",
+    "email": "abeer@test.com"
+  },
+  {
+    "password": "P@ssword123",
+    "email": "abeer@test.com"
+  },
+  {
+    "password": "P@ssword",
+    "email": "abeer@abc.com"
+  },
+
+  {
+    "password": "H90#L78v",
+    "email": "testautouser5781@test.com"
+  },
+  {
+    "password": "qpfv9gdb",
+    "email": "testautouser2140@test.com"
+  }
+]
