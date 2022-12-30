@@ -7,14 +7,6 @@ The following key modules/pages are automated:
 - **Cart**
 - **Checkout**</br>
 
-Key test cases(total **51**) are written for each module and test suites created including the positive and negative test cases.</br>A state-transition flow of test-cases are designed and run like a user buying a product from an e-commerce site.</br>
-For failed test cases it will take a screenshot aswell at the point of failure.
-</br>The test runner codes can be extracted from this [link](https://github.com/NibrazKhan/TestNG_Ecommerce_Automation/tree/main/src/test/java/TestRunner).</br>
-The module test case steps code can be extracted from this [link](https://github.com/NibrazKhan/TestNG_Ecommerce_Automation/tree/main/src/test/java/TestRunner).</br>
-**The test cases are written following standard test case format in this excel file:**
-[Test_cases.xlsx](https://github.com/NibrazKhan/TestNG_Ecommerce_Automation/files/9394338/Test_cases.xlsx) </br>
-View the excel file from this [link](https://docs.google.com/spreadsheets/d/1uAqOdIspQ-dDN8d99kBDqDSwsI-ATvWx/edit?usp=sharing&ouid=103007158823477190559&rtpof=true&sd=true).
-
 ### Technology: </br>
 - Tool: Selenium Webdriver
 - IDE: Intellij IDEA
